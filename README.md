@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 - 📚 Currently studying Computer Science at [UP FAMNIT](https://www.famnit.upr.si/sl/).
 - 🌱 I’m currently learning more FrontEnd.
