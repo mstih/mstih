@@ -1,7 +1,6 @@
 Hi there 👋
 
 - 📚 Currently studying Computer Science at [UP FAMNIT](https://www.famnit.upr.si/sl/).
-- 🌱 I’m currently learning more FrontEnd.
 - 📫 Reach me here: [Email](mailto:mstih@proton.me)
 - Some things still on my [GitLab](https://gitlab.com/mstih)
 
