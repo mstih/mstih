@@ -1,8 +1,8 @@
 Hi there 👋
 
-- 📚 Currently studying Computer Science at [UP FAMNIT](https://www.famnit.upr.si/sl/).
+- 📚 Currently studying Computer Science at <a href="https://www.famnit.upr.si">UP Famnit</a>.
 - 📫 Reach me here: [Email](mailto:mstih@proton.me)
-- Some things still on my [GitLab](https://gitlab.com/mstih)
+- Some things still on my <a href="https://gitlab.com/mstih">GitLab</a>.
 
 
 
