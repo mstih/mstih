@@ -2,7 +2,6 @@ Hi there 👋
 
 - 📚 Currently studying Computer Science at <a href="https://www.famnit.upr.si">UP Famnit</a>.
 - 📫 Reach me here: [Email](mailto:mstih@proton.me)
-- Currently focusing on Node.js
 - Some things still on my <a href="https://gitlab.com/mstih">GitLab</a>.
 
 
