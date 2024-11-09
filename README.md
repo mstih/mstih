@@ -2,7 +2,7 @@ Hi there 👋
 
 - 📚 Currently studying Computer Science at <a href="https://www.famnit.upr.si">UP Famnit</a>.
 - 📫 Reach me here: [Email](mailto:mstih@proton.me)
-- 🔗 [mihastih.com](mihastih.com)
+- 🔗 <a href="https://mihastih.com">mihastih.com</a>.
 - Some things still on my <a href="https://gitlab.com/mstih">GitLab</a>.
 
 
