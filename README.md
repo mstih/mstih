@@ -1,7 +1,6 @@
-Hi there 👋
-- --> <a href="https://tarifftracker.vercel.app">Track US Tariff Income Here</a> <--
-- 📫 Reach me here: [Email](mailto:mstih@proton.me)
-- 🔗 <a href="https://mihastih.com">mihastih.com</a>
+👋
+- 📫 [Email](mailto:mstih@proton.me)
+- 🔗 [mihastih.com](https://mihastih.com)
 
 
 
