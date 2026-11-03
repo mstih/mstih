@@ -1,4 +1,4 @@
-👋
+- 📚 Currently studying Data Science(Master's) at [UP Famnit](https://www.famnit.upr.si)
 - 📫 [Email](mailto:mstih@proton.me)
 - 🔗 [mihastih.com](https://mihastih.com)
 
